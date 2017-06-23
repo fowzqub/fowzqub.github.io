@@ -1,9 +1,51 @@
-/*input[type = "submit"] {
-   background:red;
-   margin-left:0px;
-   margin-top:0px;
-    width: 50px; 
-    height: 50px; 
-    border: 0;
-    border-radius: 50%;
-}*/
+.unit1{
+	background-color:black;
+	height:90px;
+	width:90px;
+}
+.unit2{
+	background-color:red;
+	height:90px;
+	width:90px;
+}
+#columnone{
+	top:0px;
+	left:325px;
+	position:fixed;
+}
+#columntwo{
+	top:0px;
+	left:415px;
+	position:fixed;
+}
+#columnthree{
+	top:0px;
+	left:505px;
+	position:fixed;
+}
+#columnfour{
+	top:0px;
+	left:595px;
+	position:fixed;
+
+}
+#columnfive{
+	top:0px;
+	left:685px;
+	position:fixed;
+}
+#columnsix{
+	top:0px;
+	left:775px;
+	position:fixed;
+}
+#columnseven{
+	top:0px;
+	left:865px;
+	position:fixed;
+}
+#columneight{
+	top:0px;
+	left:955px;
+	position:fixed;
+}
