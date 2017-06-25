@@ -1,5 +1,5 @@
 var index = new Array(8);
-var columns = document.getElementById("columns");
+var columns = document.getElementById("columns").childNodes;
 index[0] = columns[0].childNodes;
 index[1] = columns[1].childNodes;
 index[2] = columns[2].childNodes;
