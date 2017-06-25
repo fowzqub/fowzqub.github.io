@@ -10,42 +10,42 @@
 }
 #columnone{
 	top:0px;
-	left:280px;
+	left:0px;
 	position:fixed;
 }
 #columntwo{
 	top:0px;
-	left:370px;
+	left:90px;
 	position:fixed;
 }
 #columnthree{
 	top:0px;
-	left:460px;
+	left:180px;
 	position:fixed;
 }
 #columnfour{
 	top:0px;
-	left:550px;
+	left:270px;
 	position:fixed;
 
 }
 #columnfive{
 	top:0px;
-	left:640px;
+	left:360px;
 	position:fixed;
 }
 #columnsix{
 	top:0px;
-	left:730px;
+	left:450px;
 	position:fixed;
 }
 #columnseven{
 	top:0px;
-	left:820px;
+	left:540px;
 	position:fixed;
 }
 #columneight{
 	top:0px;
-	left:910px;
+	left:630px;
 	position:fixed;
 }
