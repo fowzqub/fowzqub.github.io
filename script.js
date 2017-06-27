@@ -8,4 +8,3 @@ index[4] = columns[9].childNodes;
 index[5] = columns[11].childNodes;
 index[6] = columns[13].childNodes;
 index[7] = columns[15].childNodes;
-index[1][1].style.backgroundColor = "red";
