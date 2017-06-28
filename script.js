@@ -11,6 +11,6 @@ index[6] = columns[13].childNodes;
 index[7] = columns[15].childNodes;
 
 function move(x,y){
-  piece.style.left = x*90;
-  piece.style.top = y*90;
+  piece.style.left = x*90+"px";
+  piece.style.top = y*90+"px";
 }
