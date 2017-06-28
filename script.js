@@ -10,7 +10,7 @@ index[5] = columns[11].childNodes;
 index[6] = columns[13].childNodes;
 index[7] = columns[15].childNodes;
 
-function move(var x, var y){
+function move(x,y){
   piece.style.left = x*90;
   piece.style.top = y*90;
 }
