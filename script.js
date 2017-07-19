@@ -54,7 +54,7 @@ var bp7 = new piece("pawn",6,1,document.getElementById("bPawnSeven"),"dark");
 var bp8 = new piece("pawn",7,1,document.getElementById("bPawnEight"),"dark");
 
 function move(x,y){
-  if(piece.color == "dark"){ 
+  if(select.color == "dark"){ 
   switch(select.id){
     case "pawn":
       break;
