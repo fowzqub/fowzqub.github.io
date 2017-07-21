@@ -2,6 +2,8 @@
   background-color:red;
   height:80%;
   width:100%;
+  bottom:0px;
+  position:fixed;
 }
 #body{
  height:100%; 
