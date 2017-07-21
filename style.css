@@ -3,11 +3,9 @@
   height:80%;
   width:100%;
   bottom:0px;
+  left:0px;
   position:fixed;
 }
 #body{
- height:100%; 
-}
-html{
  height:100%; 
 }
